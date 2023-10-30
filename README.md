@@ -1,5 +1,4 @@
 # FBOMorph
-<<<<<<< HEAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0-rc.2.
 
@@ -26,6 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
+
 FBO Particles with Three.js inspired https://www.youtube.com/watch?v=oLH00MXTqNg
->>>>>>> bd311f233d392273d6c9746c12a4f23684270061
+
